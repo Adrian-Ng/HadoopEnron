@@ -74,7 +74,7 @@
       <element id="extracted-dir" path="C:/Program Files/Java/jdk1.8.0_101/jre/lib/hadoop/hadoop-mapreduce-client-common-2.7.1.2.3.4.0-3485.jar" path-in-jar="/" />
       <element id="extracted-dir" path="C:/Program Files/Java/jdk1.8.0_101/jre/lib/hadoop/hadoop-mapreduce-client-shuffle-2.7.1.2.3.4.0-3485.jar" path-in-jar="/" />
       <element id="extracted-dir" path="C:/Program Files/Java/jdk1.8.0_101/jre/lib/hadoop/hadoop-mapreduce-client-jobclient-2.7.1.2.3.4.0-3485.jar" path-in-jar="/" />
-      <element id="artifact" artifact-name="enron" />
+      <element id="artifact" artifact-name="enron1.MailReader" />
     </root>
   </artifact>
 </component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="enron2">
+    <output-path>$PROJECT_DIR$/out/artifacts/enron2</output-path>
+    <root id="archive" name="enron2.jar">
+      <element id="module-output" name="Enron2" />
+    </root>
+  </artifact>
+</component>

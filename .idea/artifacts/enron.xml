@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="enron">
-    <output-path>$PROJECT_DIR$/out/artifacts/enron</output-path>
-    <root id="archive" name="enron.jar">
-      <element id="module-output" name="CS5234 Final Project 1" />
-    </root>
-  </artifact>
-</component>

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="timeslice">
+    <output-path>$PROJECT_DIR$/out/artifacts/timeslice</output-path>
+    <root id="archive" name="timeslice.jar">
+      <element id="module-output" name="Timeslice" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Timeslice/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

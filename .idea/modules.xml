@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CS5234 Final Project 1.iml" filepath="$PROJECT_DIR$/CS5234 Final Project 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enron2/Enron2.iml" filepath="$PROJECT_DIR$/Enron2/Enron2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Timeslice/Timeslice.iml" filepath="$PROJECT_DIR$/Timeslice/Timeslice.iml" />
     </modules>
   </component>
 </project>
