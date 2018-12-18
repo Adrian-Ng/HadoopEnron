@@ -1,0 +1,161 @@
+Id,First Name,Surname,Email1,Email2,Email3,Email4,Position
+1,Robert,Badeer,robert.badeer@enron.com,rbadeer@enron.com,,,Director
+2,Kevin,Hyatt,kevin.hyatt@enron.com,kevin_hyatt@enron.com,khyatt@enron.com,,Director
+3,Tracy,Geaccone,tracy.geaccone@enron.com,tracy_geaconne@enron.com,,,Employee
+4,Teb,Lokey,teb.lokey@enron.com,teb_lokey@enron.com,tlokey@enron.com,,Manager
+5,Richard,Ring,richard.ring@enron.com,,,,Employee
+6,Mark,Taylor,mark.e.taylor@enron.com,mark.taylor@enron.com,e.taylor@enron.com,,Employee
+7,Theresa,Staab,theresa.staab@enron.com,theresa_staab@enron.com,tstaab@enron.com,,Employee
+8,Susan,Pereira,susan.w.pereira@enron.com,w..pereira@enron.com,susan.peireira@enron.com,,Employee
+9,Stephanie,Panus,stephanie.panus@enron.com,,,,Employee
+10,Phillip,Allen,phillip.k.ellen@enron.com,phillip.allen@enron.com,k..allen@enron.com,,Manager
+11,Mark,Whitt,mark.whitt@enron.com,mwhitt@enron.com,,,Vice President
+12,Paul,Lucci,paul.lucci@enron.com,t..lucci@enron.com,plucci@enron.com,,Employee
+13,Marie,Heard,marie.heard@enron.com,,,,Legal
+14,Richard,Sanders,richard.b.sanders@enron.com,b..sanders@enron.com,richard.sanders@enron.com,,Vice President
+15,Monika,Causholli,monika.causholli@enron.com,,,,Director
+16,Michelle,Cash,michelle.cash@enron.com,mcash@enron.com,michelle_cash@enron.com,,Legal
+17,Mike,Grigsby,mike.grigsby@enron.com,,,,Manager
+18,Lynn,Blair,lynn.blair@enron.com,lynnblair@enron.com,,,Director
+19,Lindy,Donoho,lindy.donoho@enron.com,ldonoho@enron.com,,,Employee
+20,Kimberly,Watson,kimberly.watson@enron.com,,,,Employee
+21,Keith,Holst,keith.holst@enron.com,kholst@enron.com,,,Director
+22,Joe,Quenet,joe.quenet@enron.com,jquenet@enron.com,,,Trader
+23,James,Steffes,james.d.steffes@enron.com,d..steffes@enron.com,james.steffes@enron.com,,Vice President
+24,John,Forney,m..forney@enron.com,john.forney@enron.com,,,Manager
+25,Jay,Reitmeyer,jay.reitmeyer@enron.com,,,,Employee
+26,Frank,Ermis,frank.ermis@enron.com,fermis@enron.com,,,Director
+27,Elizabeth,Sager,elizabeth.sager@enron.com,esager@enron.com,,,Employee
+28,Darrell,Schoolcraft,darrell.schoolcraft@enron.com,,,,Manager
+29,Danny,McCarty,danny.mccarty@enron.com,,,,Vice President
+30,Bill,Rapp,bill.rapp@enron.com,brapp@enron.com,,,Employee
+31,Benjamin,Rogers,benjamin.rogers@enron.com,,,,Employee
+32,Shelley,Corman,shelley.corman@enron.com,scorman@enron.com,shelley_corman@enron.com,,Vice President
+33,Kim,Ward,kim.ward@enron.com,kward@enron.com,s..ward,,Manager
+34,Juan,Hernandez,juan.hernandez@enron.com,,,,Employee
+35,Joe,Stepenovitch,joe.stepenovitch@enron.com,joe_stepenovitch@enron.com,,,Vice President
+36,Jeffrey,Shankman,jeffrey.a.shankman@enron.com,a..shankman@enron.com,jeffrey.shankman@enron.com,,President
+37,Jane,Tholt,jane.tholt@enron.com,jane.m.tholt@enron.com,m..tholt@enron.com,,Vice President
+38,Barry,Tycholiz,barry.tycholiz@enron.com,,,,Vice President
+39,Dana,Davis,dana.davis@enron.com,d..davis@enron.com,dana_davis@enron.com,,Vice President
+40,Tori,Kuykendall,tori.kuykendall@enron.com,,,,Trader
+41,Randall,Gay,l..gay@enron.com,randall.gay@enron.com,randall.l.gay@enron.com,,Manager
+42,Martin,Cuilla,martin.cuilla@enron.com,mcuilla@enron.com,martin_cuilla@enron.com,,Manager
+43,Larry,Campbell,larry.f.campbell@enron.com,larry.campbell@enron.com,f..campbell@enron.com,,Employee
+44,John,Arnold,john.arnold@enron.com,,,,Manager
+45,Harry,Arora,harry.arora@enron.com,harora@enron.com,,,Vice President
+46,David,Delainey,david.w.delainey@enron.com,david.delainey@enron.com,w..delainey@enron.com,,CEO
+47,Brad,Mckay,brad.mckay@enron.com,bmckay@enron.com,,,Employee
+48,Tana,Jones,tana.jones@enron.com,tana_jones@enron.com,,,Legal
+49,Susan,Scott,susan.scott@enron.com,m..scott@enron.com,susan.m.scott@enron.com,,Trader
+50,Susan,Bailey,susan.bailey@enron.com,debra.bailey,,,Legal
+51,Steven,Kean,steven.j.kean@enron.com,steven.kean@enron.com,skean@enron.com,j..kean@enron.com,Vice President
+52,Kay,Mann,kay.mann@enron.com,,,,Employee
+53,John,Lavorato,lavorato@enron.com,john.j.lavorato@enron.com,j..lavorato@enron.com,,CEO
+54,Greg,Whalley,greg.whalley@enron.com,gwhalley@enron.com,,,President
+55,Paul,Barbo,paul.y barbo@enron.com,barbo@enron.com,pybarbo@enron.com,,Trader
+56,Jason,Wolfe,jason.wolfe@enron.com,,,,Trader
+57,Jason,Williams,jason.williams@enron.com,jason.r.williams@enron.com,,,Trader
+58,Jim,Schwieger,jim.schwieger@enron.com,,,,Trader
+59,Monique,Sanchez,monique.sanchez@enron.com,,,,Trader
+60,Kevin,Ruscitti,kevin.ruscitti@enron.com,,,,Trader
+61,Matthew,Lenhart,matthew.lenhart@enron.com,mlenhart@enron.com,,,Employee
+62,Peter,Keavey,peter.keavey@enron.com,f..keavey@enron.com,pkeavey@enron.com,peter.f.keavey@enron.com,Employee
+63,Scott,Hendrickson,scott.hendrickson@enron.com,scott . hendrikcson@enron.com,,,Trader
+64,Tom,Donohoe,tom.donohoe@enron.com,,,,Employee
+65,Mark,Haedicke,e..haedicke@enron.com,mark.haedicke@enron.com,mark.e.haedicke@enron.com,,Managing Director
+66,Stanley,Horton,stanley.horton@enron.com,stanley_horton@enron.com,,,President
+67,Sara,Shackleton,sara.shackleton@enron.com,sara_shackleton@enron.com,,,Vice President
+68,Rod,Hayslett,rod.hayslett@enron.com,rod_hayslett@enron.com,,,Vice President
+69,Richard,Shapiro,richard.shapiro@enron.com,,,,Vice President
+70,Michelle,Lokay,michelle.lokay@enron.com,michele.lokay@enron.com,mlokay@enron.com,,PA
+71,Matt,Smith,matt.smith@enron.com,matthew.smith?@enron.com,,,Trader
+72,Mark,McConnell,mark.mcconnell@enron.com,mark_mcconnell@enron.com,,,Manager
+73,Jeff,Dasovich,jeff.dasovich@enron.com,jeff_dasovich@enron.com,jeffdasovich@enron.com,,Government Relations Executive
+74,James,Derrick,james.derrick@enron.com,james_derrick@enron.com,,,Legal
+75,Gerald,Nemec,gerald.nemec@enron.com,gnemec@enron.com,,,Legal
+76,Debra,Perlingiere,debra.perlingiere@enron.com,,,,Legal
+77,John,Zufferli,john.zufferli@enron.com,,,,Vice President
+78,Andy,Zipper,andy.zipper@enron.com,azipper@enron.com,,,Vice President
+79,Stacey,White,stacey.w.white@enron.com,w..white@enron.com,stacey.white@enron.com,,Trader
+80,Charles,Weldon,charles.weldon@enron.com,v.charles.weldon@enron.com,v.weldon@enron.com,,N/A
+81,Judy,Townsend,judy.townsend@enron.com,,,,Employee
+82,Paul,Thomas,paul.d.thomas@enron.com,d..thomas@enron.com,paul.thomas@enron.com,,Trader
+83,Fletcher,Sturm,fletcher.j.sturm@enron.com,j..sturm@enron.com,fletcher.sturm@enron.com,,Vice President
+84,Geoff,Storey,geoff.storey@enron.com,gstorey@enron.com,,,Director
+85,Geir,Solberg,geir.solberg@enron.com,gsolberg@enron.com,,,Analyst
+86,Cara,Semperger,cara.semperger@enron.com,,,,Senior Analyst
+87,Holden,Salisbury,holden.salisbury@enron.com,,,,Analyst
+88,Eric,Saibi,eric.saibi@enron.com,esaibi@enron.com,,,Trader
+89,Andrea,Ring,andrea.ring@enron.com,,,,Trader
+90,Cooper,Richey,cooper.richey@enron.com,crichey@enron.com,,,Manager
+91,Dutch,Quigley,dutch.quigley@enron.com,,,,Trader
+92,Kevin,Presto,kevin.m.presto@enron.com,m..presto@enron.com,kevin.presto@enron.com,,Vice President
+93,Phillip,Platter,phillip.platter@enron.com,,,,Employee
+94,Vladi,Pimenov,vladi.pimenov@enron.com,vpimenov@enron.com,,,Trader
+95,Joe,Parks,joe.parks@enron.com,,,,Trader
+96,Scott,Neal,scott.neal@enron.com,,,,Vice President
+97,Matt,Motley,matt.motley@enron.com,mmotley@enron.com,,,Director
+98,Patrice,Mims,patrice.l.mims@enron.com,l..mims@enron.com,partice.mims@enron.com,,Employee
+99,Albert,Meyers,albert.meyers@enron.com,,,,Employee
+100,Errol,McLaughlin,errol.mclaughlin@enron.com,,,,Employee
+101,Jonathan,Mckay,jonathan.mckay@enron.com,,,,Director
+102,Larry,May,larry.may@enron.com,,,,Director
+103,Thomas,Martin,thomas.a.martin@enron.com,thomas.martin@enron.com,a..martin@enron.com,,Vice President
+104,Mike,Maggi,mike.maggi@enron.com,mmaggi@enron.com,,,Director
+105,Phillip,Love,phillip.m.love@enron.com,m..love@enron.com,phillip.love@enron.com,,Senior Manager
+106,Andrew,Lewis,h..lewis@enron.com,andrew.lewis@enron.com,andrew.h.lewis@enron.com,,Director
+107,Louise,Kitchen,louise.kitchen@enron.com,lkitchen@enron.com,,,President
+108,Jeff,King,jeff.king@enron.com,,,,Manager
+109,Vince,Kaminski,j.kaminski@enron.com,vince.kaminski@enron.com,kaminski@enron.com,j..kaminski@enron.com,Manager
+110,John,Hodge,john.hodge@enron.com,jeffrey.hodge@enron.com,t..hodge@enron.com,,Managing Director
+111,John,Griffith,john.griffith@enron.com,,,,Managing Director
+112,Darron,Giron,c..giron@enron.com,darron.giron@enron.com,darron.c.giron@enron.com,,Employee
+113,Doug,Gilbert-smith,doug.gilbert-smith@enron.com,gilbert-smith@enron.com,,,Employee
+114,Chris,Germany,chris.germany@enron.com,chris_germany@enron.com,c.germany@enron.com,,Employee
+115,Lisa,Gang,lisa.gang@enron.com,,,,Director
+116,Mary,Fischer,mary.fischer@enron.com,,,,Employee
+117,Daren,Farmer,daren.j.farmer@enron.com,daren.farmer@enron.com,j..farmer@enron.com,,Manager
+118,Chris,Dorland,chris.dorland@enron.com,,,,Manager
+119,Mike,Carson,mike.carson@enron.com,mcarson@enron.com,,,Manager
+120,Sandra,Brawner,sandra.f.brawner@enron.com,sandra.brawner@enron.com,f..brawner@enron.com,,Director
+121,Robert,Benson,robert.benson@enron.com,r.benson@enron.com,rbenson@enron.com,,Director
+122,Sally,Beck,sally.beck@enron.com,sally_beck@enron.com,,,COO
+123,Rick,Buy,rick.buy@enron.com,,,,Manager
+124,Don,Baughman,don.baughman@enron.com,d..baughman.com,don_baughman@enron.com,,Trader
+125,Eric,Bass,eric.bass@enron.com,ebass@enron.com,,,Trader
+126,Hunter,Shively,hunter.s.shively@enron.com,s..shively@enron.com,hunter.shively@enron.com,,Vice President
+127,Kenneth,Lay,kenneth.lay@enron.com,kenneth_lay@enron.com,,,CEO
+128,Kam,Keiser,kam.keiser@enron.com,kkeiser@enron.com,,,Employee
+129,Jeffrey,Skilling,jeff.skilling@enron.com,jeffrey.skilling@enron.com,,,CEO
+130,Sean,Crandall,sean.crandall@enron.com,scrandall@enron.com,,,Director
+131,Ryan,Slinger,ryan.slinger@enron.com,,,,Trader
+132,Mike,Swerzbin,mike.swerzbin@enron.com,,,,Trader
+133,Diana,Scholtes,diana.scholtes@enron.com,,,,Trader
+134,Craig,Dean,craig.dean@enron.com,,,,Trader
+135,Bill,Williams,bill.williams@enron.com,,,,Senior Analyst
+136,Stacy,Dickson,stacy.dickson@enron.com,e..dickson@enron.com,stacy.e.dickson@enron.com,,Employee
+137,Drew,Fossum,drew.fossum@enron.com,drew_fossum@enron.com,,,Vice President
+138,Mark,Guzman,mark.guzman@enron.com,,,,Managing Director
+139,Mary,Hain,mary.hain@enron.com,mhain@enron.com,mary_hain@enron.com,,Legal
+140,Steven,Harris,steven.harris@enron.com,,,,Vice President
+141,Dan,Hyvl,dan.hyvl@enron.com,dan.j.hyvl@enron.com,dhyvl@enron.com,,Employee
+142,Eric,Linder,eric.linder@enron.com,eric_linder@enron.com,,,Employee
+143,Steven,Merris,steven.merris@enron.com,steven.merriss@enron.com,,,N/A
+144,Robin,Rodrigue,robin.rodrigue@enron.com,,,,Analyst
+145,Steven,South,steven.p.south@enron.com,steven.south@enron.com,p..south@enron.com,,Trader
+146,Carol,Clair,carol.clair@enron.com,carol.st.clair@enron.com,carol.stclair@enron.com,,Vice President
+147,Chris,Stokley,chris.stokley@enron.com,,,,Employee
+148,Kate,Symes,kate.symes@enron.com,ksymes@enron.com,,,Employee
+149,Liz,Taylor,liz.taylor@enron.com,liz.m.taylor@enron.com,m..taylor@enron.com,,PA President
+150,Regan,Smith,m..smith@enron.com,regan.smith@enron.com,,,Manager
+151,Margaret,Carson,margaret.carson@enron.com,,,,Director
+152,Clint,Dean,clint.dean@enron.com,,,,Manager
+153,Rob,Gay,rob.gay@enron.com,,,,Employee
+154,Stephanie,Harris,j.harris@enron.com,,,,PA Legal
+155,Judy,Hernandez,judy.hernandez@enron.com,,,,PA
+156,Mike,McConnell,mike.mcconnell@enron.com,,,,CEO
+157,Joannie,Williamson,joannie.williamson@enron.com,,,,PA Skilling
+158,Mark,Rodriguez,mark.rodriguez@enron.com,,,,Employee
+159,George,McClellan,george.mcclellan@enron.com,,,,Managing Director
+160,Stuart,Staley,stuart.staley@enron.com,,,,Vice President

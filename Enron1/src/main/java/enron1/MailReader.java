@@ -1,9 +1,6 @@
-package enron2;
+package enron1;
 // MapReduce program template for initial parsing and cleansing of the Enron dataset
 //
-import java.io.IOException;
-import java.text.SimpleDateFormat;
-
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.fs.FileSystem;
@@ -18,7 +15,10 @@ import org.apache.hadoop.util.GenericOptionsParser;
 import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
-public class MailReader extends Configured implements Tool {
+import java.io.IOException;
+import java.text.SimpleDateFormat;
+
+public class  MailReader extends Configured implements Tool {
 
 	static final SimpleDateFormat sdf = new SimpleDateFormat("EEE, d MMM yyyy HH:mm:ss Z");
 
@@ -62,7 +62,6 @@ public class MailReader extends Configured implements Tool {
 		job.setMapperClass(MailReaderMapper.class);
 		job.setReducerClass(MailReaderReducer.class);
 		// Is there any benefit in a combiner?
-
 
 		boolean status = job.waitForCompletion(true);
 		return status ? 0 : 1;

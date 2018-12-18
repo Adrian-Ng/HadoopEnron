@@ -6,13 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Enron1" />
         <module name="Timeslice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="CS5234 Final Project 1" target="1.8" />
+      <module name="Enron1" target="6" />
       <module name="Enron2" target="8" />
-      <module name="Timeslice" target="8" />
+      <module name="Timeslice" target="6" />
     </bytecodeTargetLevel>
   </component>
 </project>

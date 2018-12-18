@@ -3,6 +3,9 @@
     <output-path>$PROJECT_DIR$/out/artifacts/enron2</output-path>
     <root id="archive" name="enron2.jar">
       <element id="module-output" name="Enron2" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Enron2/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
     </root>
   </artifact>
 </component>

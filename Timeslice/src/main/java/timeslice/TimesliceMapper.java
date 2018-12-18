@@ -1,15 +1,15 @@
 package timeslice;
 
 
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Mapper;
+
 import java.io.IOException;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.TimeZone;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-
-import org.apache.hadoop.io.Text;
-import org.apache.hadoop.mapreduce.Mapper;
 
 public class TimesliceMapper extends Mapper<Object, Text, Text, EdgeWritable> {
 
